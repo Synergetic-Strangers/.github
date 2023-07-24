@@ -9,4 +9,3 @@ We are currently working on a Food Delivery System, that aims to solve the probl
 ## What have we done till now?
 We are constantly working on new projects and ideas. Some of them are:
 1. `LPUEats` - A food delivery system for our college. _(Currently in development)_
-2. `BhaiBot` - A multipurpose chatbot that can make your day-to-day tasks easier. _(Currently in planning phase)_
